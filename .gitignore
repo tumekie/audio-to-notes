@@ -5,6 +5,7 @@ __pycache__/
 *.pyd
 *.env
 .venv/
+models/
 
 # Google credentials / tokens
 audio-to-notes-credentials.json
