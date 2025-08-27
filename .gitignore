@@ -8,7 +8,7 @@ __pycache__/
 models/
 
 # Google credentials / tokens
-client_secret_audio_to_notes.json
+client_secret.json
 token.json
 
 # OS files
